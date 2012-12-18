@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Convention over Configuration vs Innovation vs Mess
+wordpress_id: 62
+wordpress_url: http://blog.therubinway.com/?p=62
+---
+I have been working for the last months in a project called Dashboard (?) (more about dashboard - tech?). This project has started 8 years ago and since it was handed over to different development teams from time to time. As to expect, the project code is a mess, as every team and developer follow its own style of code and choose to program in his strong programming language. It seems to me that no team ever sat down and thought about  which way to work: to use JSON + JSP ? Or to generate it using some java class ? (Other samples...)
+
+By working with rails after my day work I was wondering if indeed Convention over Configuration is a good thing or not - does it limits innovation ? does it implies that you must do anything in one way ? This also can limit innovation ?

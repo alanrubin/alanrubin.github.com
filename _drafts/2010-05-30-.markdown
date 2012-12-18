@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Big Design Up Front
+wordpress_id: 68
+wordpress_url: http://blog.therubinway.com/?p=68
+---
+Talk about it and how avoid it - architect conversation

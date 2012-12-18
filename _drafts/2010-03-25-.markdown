@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Knowing a lot and not knowing anything
+wordpress_id: 57
+wordpress_url: http://blog.therubinway.com/?p=57
+---
+Talk with Nati, we he asked tips of an AJAX student application. I feel that I know a lot, which is something that rarely happens.
+
+When looking a dev super starts and listen to them in the internet, I feel that I don't know anything
+
+Morale:
+
+1) You must learn from everybody - and this demands (humildade)
+
+2) You need to value yourself sometimes - man this is good !

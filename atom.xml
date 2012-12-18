@@ -1,0 +1,26 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The Rubin Way - Personal thoughts on software & technology & UI by Alan Rubin</title>
+ <link href="http://blog.therubinway.com/atom.xml" rel="self"/>
+ <link href="http://blog.therubinway.com"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://blog.therubinway.com</id>
+ <author>
+   <name>The Rubin Way</name>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://blog.therubinway.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://blog.therubinway.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>

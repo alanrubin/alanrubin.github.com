@@ -1,0 +1,246 @@
+.highlight {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.highlight .c {
+    color: #999988;
+    font-style: italic;
+}
+.highlight .err {
+    background-color: #E3D2D2;
+    color: #A61717;
+}
+.highlight .k {
+    font-weight: bold;
+}
+.highlight .o {
+    font-weight: bold;
+}
+.highlight .cm {
+    color: #999988;
+    font-style: italic;
+}
+.highlight .cp {
+    color: #999999;
+    font-weight: bold;
+}
+.highlight .c1 {
+    color: #999988;
+    font-style: italic;
+}
+.highlight .cs {
+    color: #999999;
+    font-style: italic;
+    font-weight: bold;
+}
+.highlight .gd {
+    background-color: #FFDDDD;
+    color: #000000;
+}
+.highlight .gd .x {
+    background-color: #FFAAAA;
+    color: #000000;
+}
+.highlight .ge {
+    font-style: italic;
+}
+.highlight .gr {
+    color: #AA0000;
+}
+.highlight .gh {
+    color: #999999;
+}
+.highlight .gi {
+    background-color: #DDFFDD;
+    color: #000000;
+}
+.highlight .gi .x {
+    background-color: #AAFFAA;
+    color: #000000;
+}
+.highlight .go {
+    color: #888888;
+}
+.highlight .gp {
+    color: #555555;
+}
+.highlight .gs {
+    font-weight: bold;
+}
+.highlight .gu {
+    color: #AAAAAA;
+}
+.highlight .gt {
+    color: #AA0000;
+}
+.highlight .kc {
+    font-weight: bold;
+}
+.highlight .kd {
+    font-weight: bold;
+}
+.highlight .kp {
+    font-weight: bold;
+}
+.highlight .kr {
+    font-weight: bold;
+}
+.highlight .kt {
+    color: #445588;
+    font-weight: bold;
+}
+.highlight .m {
+    color: #009999;
+}
+.highlight .s {
+    color: #DD1144;
+}
+.highlight .na {
+    color: teal;
+}
+.highlight .nb {
+    color: #0086B3;
+}
+.highlight .nc {
+    color: #445588;
+    font-weight: bold;
+}
+.highlight .no {
+    color: teal;
+}
+.highlight .ni {
+    color: purple;
+}
+.highlight .ne {
+    color: #990000;
+    font-weight: bold;
+}
+.highlight .nf {
+    color: #990000;
+    font-weight: bold;
+}
+.highlight .nn {
+    color: #555555;
+}
+.highlight .nt {
+    color: navy;
+}
+.highlight .nv {
+    color: teal;
+}
+.highlight .ow {
+    font-weight: bold;
+}
+.highlight .w {
+    color: #BBBBBB;
+}
+.highlight .mf {
+    color: #009999;
+}
+.highlight .mh {
+    color: #009999;
+}
+.highlight .mi {
+    color: #009999;
+}
+.highlight .mo {
+    color: #009999;
+}
+.highlight .sb {
+    color: #DD1144;
+}
+.highlight .sc {
+    color: #DD1144;
+}
+.highlight .sd {
+    color: #DD1144;
+}
+.highlight .s2 {
+    color: #DD1144;
+}
+.highlight .se {
+    color: #DD1144;
+}
+.highlight .sh {
+    color: #DD1144;
+}
+.highlight .si {
+    color: #DD1144;
+}
+.highlight .sx {
+    color: #DD1144;
+}
+.highlight .sr {
+    color: #009926;
+}
+.highlight .s1 {
+    color: #DD1144;
+}
+.highlight .ss {
+    color: #990073;
+}
+.highlight .bp {
+    color: #999999;
+}
+.highlight .vc {
+    color: teal;
+}
+.highlight .vg {
+    color: teal;
+}
+.highlight .vi {
+    color: teal;
+}
+.highlight .il {
+    color: #009999;
+}
+ pre,  code, #main pre, #main code {
+    font: 13px Consolas,"Andale Mono",Monaco,Courier,"Courier New",Verdana,sans-serif;
+}
+ pre, #main pre {
+    background-color: #EEEEFF;
+    border: 1px solid #DDDDDD;
+    margin: 20px 0;
+    overflow-x: hidden;
+    padding: 0.4em;
+    width: 100%;
+}
+ pre:hover, #main pre:hover {
+/*    width: 820px;*/
+}
+ pre.noexpand:hover, #main pre.noexpand:hover {
+    width: 608px !important;
+}
+ pre code, #main pre code {
+    border: medium none;
+}
+ code, #main code {
+    background-color: #EEEEFF;
+    border: 1px solid #DDDDDD;
+    display: block;
+    font: 13px Consolas,"Andale Mono",Monaco,Courier,"Courier New",Verdana,sans-serif;
+    padding: 0 0.2em;
+}
+ code.inline, #main code.inline {
+    display: inline;
+}
+ code.kb, #main code.kb {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-color: #DEDEDE #BBBBBB #BBBBBB #DEDEDE;
+    border-radius: 4px 4px 4px 4px;
+    border-width: 2px;
+}
+ sup, #main sup {
+    bottom: 1ex;
+}
+ sub, #main sub {
+    top: 0.5ex;
+}
+ pre.terminal, #main pre.terminal {
+    background-color: #444444;
+    border: 2px solid #000000;
+    border-radius: 5px 5px 5px 5px;
+    color: #17FF00;
+}
+ pre.terminal code, #main pre.terminal code {
+    background-color: #333333;
+}

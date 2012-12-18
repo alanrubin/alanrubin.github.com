@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: You should be reading books
+wordpress_id: 54
+wordpress_url: http://blog.therubinway.com/?p=54
+---
+Reading books are very important because they takle with the problems in a depth way
+
+Don't make a mistake, I read a lot in the Internet, but it is not enough - explain why texts at the internet are not enough to enrich your knowledge
